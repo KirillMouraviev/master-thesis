@@ -238,8 +238,8 @@
 }
 
 \newcommand{\titlecontents}{
-    \titlepage \addemptypage
-    \tableofcontents \addemptypage
+    \titlepage %\addemptypage
+    \tableofcontents %\addemptypage
     \pagestyle{miptthesis}
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
